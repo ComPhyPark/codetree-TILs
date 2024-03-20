@@ -31,7 +31,7 @@ int main() {
         }
     }
     if(n==1){
-        printf("1");
+        printf("2");
         return 0;
     }
     printf("%d",r);
